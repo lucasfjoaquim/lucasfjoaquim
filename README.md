@@ -4,7 +4,6 @@
 - 🔭 Software Engineering at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I've installed MacOS Big Sur on my Acer laptop.💻
 
 ### My skills:
 
